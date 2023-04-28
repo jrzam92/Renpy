@@ -1,2 +1,4 @@
 ﻿*.rpyc
 *.save
+*.png~
+*.jpg~
